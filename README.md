@@ -1,4 +1,7 @@
 🏗️ Architecture de l'infrastructure
+
+
+
 ┌──────────────────────────────────────────────────────────┐
 │         PC Physique — Dell Vostro 15 3510                │
 │         Intel i7-1165G7 | 32 GB RAM | Windows 11         │
