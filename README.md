@@ -1,4 +1,4 @@
-
+*/
 Golden Image RHEL 9.6
 Prérequis
 Nutanix CE opérationnel avec Prism Element accessible
@@ -46,8 +46,8 @@ systemctl restart systemd-journald
 Utilisateur d'administration
 bash
 # Créer l'utilisateur admin
-useradd -m -G wheel aliuser
-passwd aliuser
+useradd -m -G wheel *****
+passwd ******
 
 # Politique sudo (wheel sans password en lab)
 # Éditer /etc/sudoers via visudo
